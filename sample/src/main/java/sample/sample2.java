@@ -2,5 +2,5 @@ package sample;
 
 public class sample2 {
 
-	System.out.println ("new test");
+	// System.out.println ("new test");
 }
